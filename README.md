@@ -23,7 +23,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Dg4TxjYikCpiGd7tYs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/raccoon-pedro-Dg4TxjYikCpiGd7tYs">via GIPHY</a></p>
+  <img align="align" alt="pedropedro_gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJia3VpMjF2aGlteWFmcWd5eXJkanN6M2RwNzhndTVlNHJ3YmM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" >
 </div>
   
   ##
