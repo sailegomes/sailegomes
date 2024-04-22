@@ -23,7 +23,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="align" alt="pedropedro_gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJia3VpMjF2aGlteWFmcWd5eXJkanN6M2RwNzhndTVlNHJ3YmM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" >
+  <img align="right" alt="pedropedro_gif" height="160" width="160"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJia3VpMjF2aGlteWFmcWd5eXJkanN6M2RwNzhndTVlNHJ3YmM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" >
 </div>
   
   ##
