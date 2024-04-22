@@ -7,3 +7,4 @@
 - ⚡ Fun fact: Desejo trocar de área e trabalhar como dev front-end em algum momento rsrsrs
 
 
+
