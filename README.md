@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Elias Gomes, Estatístico e futuro dev Front-End 👋
 
-- 🔭 Hoje trabalho com Análise de Dados
+- 🔭 Hoje trabalho com Estatística
 - 🌱 Estudando HTML, CSS e JS
 - 📫 Contate-me: sailesilvagomes@gmail.com
 - 😄 Pronouns: Ele/Dele
